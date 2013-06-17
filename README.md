@@ -1,4 +1,0 @@
-SiSy
-====
-
-Systemmanagement und Sicherheit
